@@ -153,12 +153,28 @@
 
 ## Module 3: Configure Middleware and Services
 
+- Middleware can be used to add functionality to every page of the application such as checking if the client is connecting with an https connection.
+- Http defines a whole host of information in the header. 
+  - You can specify the type of data being sent
+  - We can intercept them in the middleware and do something interesting with them.
+- MVC is created by instatiating specific middleware. Without those middleware pieces you just have a base .NET 5 app that can send and recieve data. (if you specify the type of data. It'll all be interpreted as strings)
 - ConfigureServices behaves more like AddServices
 - Configure behaves more like ConfigureServices
+  - app.Use() invokes the next.Invoke() function for each middleware which will call the next one in the chain
+  
+  ```C#
+    services.AddDbContext<TContext>(); 
+    // would register a database connection to the service
+  ```
 
-```C#
-  services.AddDbContext<TContext>(); // would register a database connection to the service
-```
+  ```C#
+    
+  ```
+
+  - app.Run() is the end of the pipeline and is technically considered the "endware"
+  - MVC is the app.Run() in an MVC app
+- Good diagram: https://www.programmingwithwolfgang.com/middleware-in-asp-net-core-mvc/
+
 
 - There's a whole host of services we can add to the startup file as well as our own custom code
 - This would be where you can configure the connection string based on environment and use the 
