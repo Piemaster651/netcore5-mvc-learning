@@ -25,8 +25,10 @@
 - https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 - Web API is the '4th generation' of sorts
   - .NET 2.0 ASMX XML SOAP
-  - .NET 3.5 WCF
-  - .NET ~4  WebAPI - Model, Controller returning machine-readable data. No views, but very similar to MVC
+  - .NET 3.5 WCF XML, XML SOAP, JSON, Binary, ???
+  - .NET ~4  WebAPI - RESTful => JSON, XML
+    - REST - Representational State Transfer
+    - Model, Controller returning machine-readable data. No views, but very similar to MVC
 - Any client-side tech is available
 - Razor pages uses AJAX and JQuery internally
 - IIS on windows servers is the assumed hosting tech
@@ -76,9 +78,90 @@
   - Common runtime, so like Java you can run it anywhere as long as that platform has a .NET runtime
   - An int is an int is an int.
   - You can call functions in F# from C# apps due to this
-- 
+- Overview of Web API
+  - Web service
+  - Enables external systems to use your application's business logic
+  - Accessible to various HTTP clients - no special protocols needed
+  - CRUD capable
+  - Example: https://maxrestdemo.azurewebsites.net/odata/Bikes
+  - supports odata which supports queries
+    - ?select=id,price&$filter=color eq 'Red'
+  - https://maxrestdemo.azurewebsites.net/WebServiceTester.html
+  - People don't like the Burple Bike. :(
+  - update: Bikes(749)
+    ```JSON
+      {
+        "color": "Yellow"
+      } 
+    ```
+  - PUT will do a partial update and change bike with 749 to a yellow color
+  - Will be using the stuff we learned from the MVC stuff, but without views in module 13
+- Intro to Core
+  - Razor pages has a codebehind like WebForms
+  - In a cshtml page, "@model" up at the top is a directive
+  - Core works on multiple platforms and is lighter weight
+  - Every website you create is a console app that runs kestrel 
+    - The console app can run anywhere and be run from the command line, wheras framework is not a console app, so it must be hosted
+  - dotnet.exe ConsoleApp1.dll will run the console app, or more succintly dotnet ConsoleApp1.dll
+  - You can compile razor pages to protect against an attacker who wants to deface our website if they gain access
+  - The default route is defined in Startup.cs through the UseEndpoints middleware. 
+  - Urls don't point to pages they point to resources which are methods in controllers and actions are returned.
+  - The controller handles everything. This is the opposite of the convention that my team says is best practice.
+  
+### Lab 1
+
+- Port: 44383
+- TODO: Finish Sections 2 and 3
+  
 ## Module 2: Designing Applications
+
+- UML Use Case Diagram
+- Database Design
+  - Logical Modeling
+    - UML Diagrams
+    - Logical Data Model (LDM) Diagrams
+  - Domain Model Diagram (DMD) aka conceptual data model shows the high-level conceptual objects 
+  - Physical database structure
+  - Working with DBAs
+  - Database design in agile and extreme programming
+- Middle tier with business logic is entity framework for our examples. Our team uses a more "bare metal" approach.
+- Planning Globalization and Localization
+  - Internally-recognized set of language codes available in browsers to present content customized to suit a user's language or region
+  - resource files to provide a localized response
+  - separate views if necessary
+  - separate css files as well
+- Accessibility
+  - You can be sued for not making your website accessible.
+  - World Wide Web Consortium (W3C) has a project called the Web Accessibility Initiative (WAI) that promotes accessible web content. https://aka.ms/moc-20486d-m2-pg5
+
+### Models
+
+- Just a class with a collection of properties
+- It can include methods for getting and setting along with some simple logic related to the properties
+- "prop" tab tab will create a new property with get and set
+- If configured properly, EF will be able to adapt dynamically if changes are made to the models
+
+### Views
+
+- Wireframes are like mockups, but they should look like it's ideation and high level. Layout, content completion, etc.
+- 
+
+### Controllers
+
+- Create one controller for each *business process*
+- 
+
 ## Module 3: Configure Middleware and Services
+
+- ConfigureServices behaves more like AddServices
+- Configure behaves more like ConfigureServices
+
+```C#
+  services.AddDbContext<TContext>(); // would register a database connection to the service
+```
+
+- There's a whole host of services we can add to the startup file as well as our own custom code
+- This would be where you can configure the connection string based on environment and use the 
 ## Module 4: Developing Controllers
 ## Module 5: Developing Views
 ## Module 6: Developing Models
