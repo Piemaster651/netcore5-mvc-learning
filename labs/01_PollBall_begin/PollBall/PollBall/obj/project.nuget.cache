@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xs1CjxyuHXGoBpjXU8Sbvq+BwuhIjmFlQSG5RazSDLwARQ/OAndp29EG1WB5qoyieLKhixQqohHUAtvsCqvdPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steph_vhierhr\\source\\repos\\netcore5-mvc-learning\\labs\\01_PollBall_begin\\PollBall\\PollBall\\PollBall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.1\\microsoft.aspnetcore.odata.8.0.1.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\microsoft.odata.core\\7.9.0\\microsoft.odata.core.7.9.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\microsoft.odata.edm\\7.9.0\\microsoft.odata.edm.7.9.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.6\\microsoft.odata.modelbuilder.1.0.6.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\microsoft.spatial\\7.9.0\\microsoft.spatial.7.9.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\steph_vhierhr\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

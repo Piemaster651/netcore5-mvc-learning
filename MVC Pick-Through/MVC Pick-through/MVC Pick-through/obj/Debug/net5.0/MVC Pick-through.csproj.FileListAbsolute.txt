@@ -1,0 +1,39 @@
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\appsettings.json
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.exe
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.deps.json
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.runtimeconfig.json
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.runtimeconfig.dev.json
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.dll
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\ref\MVC Pick-through.dll
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.pdb
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.Views.dll
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\bin\Debug\net5.0\MVC Pick-through.Views.pdb
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.AssemblyInfoInputs.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.AssemblyInfo.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.csproj.CoreCompileInputs.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.RazorAssemblyInfo.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.RazorAssemblyInfo.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\staticwebassets\MVC Pick-through.StaticWebAssets.Manifest.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\staticwebassets\MVC Pick-through.StaticWebAssets.xml
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\scopedcss\bundle\MVC Pick-through.styles.css
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.TagHelpers.input.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.TagHelpers.output.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.RazorCoreGenerate.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.RazorTargetAssemblyInfo.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.RazorTargetAssemblyInfo.cs
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.Views.pdb
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.dll
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\ref\MVC Pick-through.dll
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.pdb
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.genruntimeconfig.cache
+C:\Users\steph_vhierhr\source\repos\netcore5-mvc-learning\MVC Pick-Through\MVC Pick-through\MVC Pick-through\obj\Debug\net5.0\MVC Pick-through.csproj.CopyComplete

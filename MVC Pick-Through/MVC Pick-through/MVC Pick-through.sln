@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Pick-through", "MVC Pick-through\MVC Pick-through.csproj", "{0CE2FC1D-2FCB-4526-AB1C-7C768A74E206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE2FC1D-2FCB-4526-AB1C-7C768A74E206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE2FC1D-2FCB-4526-AB1C-7C768A74E206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE2FC1D-2FCB-4526-AB1C-7C768A74E206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE2FC1D-2FCB-4526-AB1C-7C768A74E206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F48D91D-57EB-49EE-B22E-7C8392038AEE}
+	EndGlobalSection
+EndGlobal
